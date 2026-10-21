@@ -57,18 +57,6 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ncrod7&hide_border=true&border_radius=0&hide=prs,issues,stars,contribs&title_color=e23726&icon_color=e23726&text_color=0e0f12&bg_color=fcfcfa&rank_icon=github#gh-light-mode-only" alt="Estadísticas de GitHub" />
-      <img src="https://github-readme-stats.vercel.app/api?username=ncrod7&hide_border=true&border_radius=0&hide=prs,issues,stars,contribs&title_color=e23726&icon_color=e23726&text_color=fcfcfa&bg_color=0e0f12&rank_icon=github#gh-dark-mode-only" alt="Estadísticas de GitHub" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=ncrod7&hide_border=true&border_radius=0&background=fcfcfa&stroke=fcfcfa&ring=E23726&fire=E23726&currStreakLabel=E23726&sideLabels=57606a&dates=6b6b6b&currStreakNum=0e0f12&sideNums=0e0f12#gh-light-mode-only" alt="Racha de contribuciones" />
-      <img src="https://streak-stats.demolab.com?user=ncrod7&hide_border=true&border_radius=0&background=0e0f12&stroke=0e0f12&ring=E23726&fire=E23726&currStreakLabel=E23726&sideLabels=8b949e&dates=6b6b6b&currStreakNum=fcfcfa&sideNums=fcfcfa#gh-dark-mode-only" alt="Racha de contribuciones" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="./streak-2026.svg" alt="Racha 2026" />
