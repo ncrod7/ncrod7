@@ -62,10 +62,6 @@
   <img src="./streak-2026.svg" alt="Racha 2026" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ncrod7/ncrod7/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Serpiente sobre el grafo de contribuciones" />
-  <img src="https://raw.githubusercontent.com/ncrod7/ncrod7/output/github-contribution-grid-snake-dark.svg?palette=github-dark#gh-dark-mode-only" alt="Serpiente sobre el grafo de contribuciones" />
-</p>
 
 <p align="center">
   <img src="./monogram.svg" width="44" height="44" alt="Monograma NC" />
