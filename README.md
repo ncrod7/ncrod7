@@ -58,10 +58,6 @@
 ---
 
 
-<p align="center">
-  <img src="./streak-2026.svg" alt="Racha 2026" />
-</p>
-
 
 <p align="center">
   <img src="./monogram.svg" width="44" height="44" alt="Monograma NC" />
