@@ -23,7 +23,7 @@
 <p align="center"><sub><b>STACK · A DIARIO</b></sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,astro,tailwind&theme=dark#gh-dark-mode-only" alt="HTML, CSS, JavaScript, TypeScript, Vue, Tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind&theme=dark#gh-dark-mode-only" alt="HTML, CSS, JavaScript, TypeScript, Vue, Tailwind" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,python,java,laravel,spring&theme=dark#gh-dark-mode-only" alt="Node, Python, Java, Laravel, Spring" />
