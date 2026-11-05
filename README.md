@@ -63,6 +63,3 @@
   <img src="./monogram.svg" width="44" height="44" alt="Monograma NC" />
 </p>
 
-<p align="center">
-  <sub><code>ncrod.dev</code> · Astro · React · Tailwind · <a href="https://github.com/ncrod7/portfoliodef">portfolio</a></sub>
-</p>
