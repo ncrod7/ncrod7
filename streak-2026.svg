@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="160" viewBox="0 0 420 160">
   <rect width="420" height="160" rx="10" fill="#0e0f12"/>
   <text x="210" y="30" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" fill="#e23726">Racha 2026</text>
-  <text x="105" y="90" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" fill="#e6e6e3">2</text>
+  <text x="105" y="90" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" fill="#e6e6e3">5</text>
   <text x="105" y="115" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#8b8d93">actual</text>
-  <text x="315" y="90" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" fill="#e6e6e3">3</text>
+  <text x="315" y="90" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" fill="#e6e6e3">5</text>
   <text x="315" y="115" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#8b8d93">más larga</text>
-  <text x="210" y="145" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#8b8d93">9 días con actividad</text>
+  <text x="210" y="145" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#8b8d93">18 días con actividad</text>
 </svg>
