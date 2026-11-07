@@ -51,5 +51,13 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/ncrod7/ncrod7/output/skyline.svg" width="100%" alt="Skyline: cada semana de contribuciones es un edificio y cada día con commits, una ventana encendida" />
+</p>
+
+<p align="center">
+  <img src="./bonsai/bonsai.gif" width="256" alt="Bonsái en pixel art que crece con mis contribuciones" />
+</p>
+
+<p align="center">
   <img src="./monogram.svg" width="36" height="36" alt="Monograma NC" />
 </p>

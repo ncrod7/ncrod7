@@ -1,0 +1,32 @@
+name: Bonsai
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency: bonsai
+
+jobs:
+  bonsai:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      # v1 fijado a commit: proyecto de terceros con permiso de escritura en el repo
+      - uses: J-D-J123/git-bonsai@d3cf92067c89468c1e3d1706a31711670d697f1b
+        with:
+          output-dir: bonsai
+          qrng-api-key: ${{ secrets.QRNG_API_KEY }}
+
+      - name: Guardar cambios
+        run: |
+          git add bonsai/bonsai.gif bonsai/tree.json
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Hacer crecer el bonsái"
+          git pull --rebase -q
+          git push -q
