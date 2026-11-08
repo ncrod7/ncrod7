@@ -24,11 +24,11 @@
     <td><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="40" alt="MySQL, MongoDB" /> <img src="./icons/mariadb.svg" height="40" alt="MariaDB" /> <img src="./icons/sqlserver.svg" height="40" alt="SQL Server" /> <img src="./icons/excel.svg" height="40" alt="Excel" /></td>
   </tr>
   <tr>
-    <td><b>cloud · sistemas</b></td>
+    <td><b>Cloud · Sistemas</b></td>
     <td><img src="https://skillicons.dev/icons?i=aws,docker,linux,vercel&theme=dark" height="40" alt="AWS, Docker, Linux, Vercel" /></td>
   </tr>
   <tr>
-    <td><b>herramientas</b></td>
+    <td><b>Herramientas</b></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,npm,vscode&theme=dark" height="40" alt="Git, GitHub, npm, VS Code" /> <img src="./icons/jira.svg" height="40" alt="Jira" /></td>
   </tr>
 </table>
