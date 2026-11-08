@@ -12,15 +12,15 @@
 
 <table align="center">
   <tr>
-    <td><b>front-end</b></td>
+    <td><b>Front-end</b></td>
     <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,wordpress&theme=dark" height="40" alt="HTML, CSS, JavaScript, TypeScript, Vue, Tailwind, WordPress" /></td>
   </tr>
   <tr>
-    <td><b>back-end</b></td>
+    <td><b>Back-end</b></td>
     <td><img src="https://skillicons.dev/icons?i=nodejs,python,java,laravel,spring,postman&theme=dark" height="40" alt="Node, Python, Java, Laravel, Spring, Postman" /></td>
   </tr>
   <tr>
-    <td><b>datos</b></td>
+    <td><b>Datos</b></td>
     <td><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="40" alt="MySQL, MongoDB" /> <img src="./icons/mariadb.svg" height="40" alt="MariaDB" /> <img src="./icons/sqlserver.svg" height="40" alt="SQL Server" /> <img src="./icons/excel.svg" height="40" alt="Excel" /></td>
   </tr>
   <tr>
