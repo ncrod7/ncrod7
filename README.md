@@ -5,7 +5,6 @@
 <p align="center">
   <a href="mailto:nicolas.cervera.rod7@gmail.com"><img src="https://img.shields.io/badge/email-0e0f12?style=for-the-badge&logo=gmail&logoColor=e23726" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/nicol%C3%A1s-cervera-rodr%C3%ADguez-702376381/"><img src="https://img.shields.io/badge/linkedin-0e0f12?style=for-the-badge&logo=linkedin&logoColor=e23726" alt="LinkedIn" /></a>
-  <a href="https://github.com/ncrod7/portfoliodef"><img src="https://img.shields.io/badge/portfolio-0e0f12?style=for-the-badge&logo=astro&logoColor=e23726" alt="Portfolio" /></a>
 </p>
 
 ## `$ ls ./stack`
