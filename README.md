@@ -13,6 +13,7 @@
   <tr>
     <td><b>Front-end</b></td>
     <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,wordpress&theme=dark" height="40" alt="HTML, CSS, JavaScript, TypeScript, Vue, Tailwind, WordPress" /></td>
+    <td rowspan="5"><img src="./bonsai/bonsai.gif" width="200" alt="Bonsái en pixel art que crece con mis contribuciones" /></td>
   </tr>
   <tr>
     <td><b>Back-end</b></td>
@@ -51,10 +52,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ncrod7/ncrod7/output/skyline.svg" width="100%" alt="Skyline: cada semana de contribuciones es un edificio y cada día con commits, una ventana encendida" />
-</p>
-
-<p align="center">
-  <img src="./bonsai/bonsai.gif" width="256" alt="Bonsái en pixel art que crece con mis contribuciones" />
 </p>
 
 <p align="center">
