@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40" role="img" aria-label="NC">
   <title>NC — Nicolás Cervera Rodríguez</title>
-  <rect width="40" height="40" rx="2" fill="#0e0f12"/>
-  <g fill="#fcfcfa">
+  <rect width="40" height="40" rx="2" fill="#0e1013"/>
+  <g fill="#eceef1">
     <path d="M3.5 29V13h2.9l4.3 10V13h2.9v16h-2.9L6.4 19v10z"/>
     <path d="M29.09 15.35a7.6 7.6 0 1 0 0 11.3l-2.28-2.53a4.2 4.2 0 1 1 0-6.24z"/>
   </g>
-  <rect x="32.3" y="24.9" width="4.2" height="4.2" fill="#e23726"/>
+  <rect x="32.3" y="24.9" width="4.2" height="4.2" fill="#8394ff"/>
 </svg>

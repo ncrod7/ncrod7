@@ -68,13 +68,13 @@ while counts.get(d, 0) > 0:
 total_days = sum(1 for d in days if counts[d] > 0)
 
 svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="420" height="160" viewBox="0 0 420 160">
-  <rect width="420" height="160" rx="10" fill="#0e0f12"/>
-  <text x="210" y="30" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" fill="#e23726">Racha {year}</text>
-  <text x="105" y="90" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" fill="#e6e6e3">{current}</text>
-  <text x="105" y="115" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#8b8d93">actual</text>
-  <text x="315" y="90" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" fill="#e6e6e3">{longest}</text>
-  <text x="315" y="115" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#8b8d93">más larga</text>
-  <text x="210" y="145" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#8b8d93">{total_days} días con actividad</text>
+  <rect width="420" height="160" rx="10" fill="#0e1013"/>
+  <text x="210" y="30" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" fill="#8394ff">Racha {year}</text>
+  <text x="105" y="90" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" fill="#eceef1">{current}</text>
+  <text x="105" y="115" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#959ba6">actual</text>
+  <text x="315" y="90" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" fill="#eceef1">{longest}</text>
+  <text x="315" y="115" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#959ba6">más larga</text>
+  <text x="210" y="145" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" fill="#959ba6">{total_days} días con actividad</text>
 </svg>
 """
 
@@ -82,7 +82,7 @@ with open("streak-2026.svg", "w", encoding="utf-8") as f:
     f.write(svg)
 
 MONTHS = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
-SHADES = ["#1b1d22", "#5a1a14", "#8a2117", "#b82c1f", "#e23726"]
+SHADES = ["#1b1d22", "#1e2766", "#2a3db5", "#3653f5", "#8394ff"]
 peak = max(counts.values(), default=0) or 1
 total = sum(counts.values())
 cell, x0, y0 = 13, 40, 62
@@ -107,13 +107,13 @@ for c, w in enumerate(weeks):
 legend_x = width - 54 - 5 * cell
 heatmap = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="190" viewBox="0 0 {width} 190" role="img" aria-label="{total} contribuciones en {year}">
   <style>
-    text{{font-family:'JetBrains Mono',ui-monospace,Consolas,monospace;font-size:11px;fill:#8b8d93}}
+    text{{font-family:'JetBrains Mono',ui-monospace,Consolas,monospace;font-size:11px;fill:#959ba6}}
     rect[style]{{opacity:0;animation:in .4s ease forwards}}
     @keyframes in{{to{{opacity:1}}}}
     @media (prefers-reduced-motion:reduce){{rect[style]{{animation:none;opacity:1}}}}
   </style>
-  <rect width="{width}" height="190" rx="10" fill="#0e0f12"/>
-  <text x="{x0}" y="28" style="font-size:13px;fill:#e6e6e3">// {total} contribuciones en {year}</text>
+  <rect width="{width}" height="190" rx="10" fill="#0e1013"/>
+  <text x="{x0}" y="28" style="font-size:13px;fill:#eceef1">// {total} contribuciones en {year}</text>
   {''.join(labels)}
   {''.join(cells)}
   <text x="{legend_x - 46}" y="{y0 + 7 * cell + 21}">menos</text>

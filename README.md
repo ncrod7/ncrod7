@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:nicolas.cervera.rod7@gmail.com"><img src="https://img.shields.io/badge/email-0e0f12?style=for-the-badge&logo=gmail&logoColor=e23726" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/nicol%C3%A1s-cervera-rodr%C3%ADguez-702376381/"><img src="https://img.shields.io/badge/linkedin-0e0f12?style=for-the-badge&logo=linkedin&logoColor=e23726" alt="LinkedIn" /></a>
+  <a href="mailto:nicolas.cervera.rod7@gmail.com"><img src="https://img.shields.io/badge/email-0e1013?style=for-the-badge&logo=gmail&logoColor=8394ff" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-cervera-rodr%C3%ADguez-702376381/"><img src="https://img.shields.io/badge/linkedin-0e1013?style=for-the-badge&logo=linkedin&logoColor=8394ff" alt="LinkedIn" /></a>
 </p>
 
 ## `$ ls ./stack`
@@ -38,7 +38,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=ncrod7&hide_border=true&border_radius=10&background=0e0f12&stroke=23252b&ring=E23726&fire=E23726&currStreakLabel=E23726&sideLabels=8b949e&dates=8b8d93&currStreakNum=e6e6e3&sideNums=e6e6e3" height="165" alt="Contribuciones y racha históricas" />
+      <img src="https://streak-stats.demolab.com?user=ncrod7&hide_border=true&border_radius=10&background=0e1013&stroke=23252b&ring=8394FF&fire=8394FF&currStreakLabel=8394FF&sideLabels=959ba6&dates=959ba6&currStreakNum=eceef1&sideNums=eceef1" height="165" alt="Contribuciones y racha históricas" />
     </td>
     <td>
       <img src="./streak-2026.svg" height="165" alt="Racha de contribuciones en 2026" />

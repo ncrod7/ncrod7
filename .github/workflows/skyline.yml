@@ -20,7 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.SKYLINE_TOKEN || secrets.GITHUB_TOKEN }}
         # Fijado a commit: proyecto de terceros con permiso de escritura en el repo
-        run: go run github.com/pinkpixel-dev/skyline@3542b1abda4e0ba444cc896114c2ef9aabe2f17b -theme crimson -svg skyline.svg "${{ github.repository_owner }}"
+        run: go run github.com/pinkpixel-dev/skyline@3542b1abda4e0ba444cc896114c2ef9aabe2f17b -theme ice -svg skyline.svg "${{ github.repository_owner }}"
 
       - name: Publicar en la rama output
         env:
